@@ -16,7 +16,8 @@ Evernote for Mac must be installed.
 
 1. It can be installed with [Homebrew](http://brew.sh/) `brew install sdcv` on OS X.
 2. Download the dictionaries you want. [A list of dictionaries you can
-use](http://abloz.com/huzheng/stardict-dic/dict.org/).
+use](http://abloz.com/huzheng/stardict-dic/dict.org/). (I used the WordNet
+dictionary.)
 3. Make the directory where sdcv looks for dictionaries: `sudo mkdir -p
 /usr/share/stardict/dic/`
 4. Unzip the dictionaries and put their folders in the new directory.
